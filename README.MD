@@ -48,7 +48,3 @@ Este é um projeto de código aberto e contribuições são muito bem-vindas! Es
 
 
 
-
-Deep Research
-
-
