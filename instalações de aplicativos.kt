@@ -1,7 +1,7 @@
 // A URI do arquivo APK que você quer instalar
 val apkFileUri = FileProvider.getUriForFile(
     context,
-    "com.exemplo.seuapp.fileprovider",
+    "com.MM.index.code.editor",
     File(caminhoDoAPK)
 )
 
